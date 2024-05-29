@@ -1,0 +1,30 @@
+Video: SEKU5875349.avi, Final Container Number: SEKU5875349
+Video: SEKU5875349.avi, Recognized correctly: SEKU5875349
+Video: SEKU5875349.avi, OCR Accuracy: 1.00
+Video: TLLU4080736.avi, Final Container Number: TLLU4080736
+Video: TLLU4080736.avi, Recognized correctly: TLLU4080736
+Video: TLLU4080736.avi, OCR Accuracy: 1.00
+Video: TSSU5099400.avi, Final Container Number: TSSU5099400
+Video: TSSU5099400.avi, Recognized correctly: TSSU5099400
+Video: TSSU5099400.avi, OCR Accuracy: 1.00
+Video: WHSU2483178.avi, No valid container number detected
+Video: WHSU2483178.avi, OCR Accuracy: 0.00
+Video: WHSU5223791.avi, Final Container Number: WHSU5223791
+Video: WHSU5223791.avi, Recognized correctly: WHSU5223791
+Video: WHSU5223791.avi, OCR Accuracy: 0.92
+Video: WHSU5368199.avi, Final Container Number: WHSU5368199
+Video: WHSU5368199.avi, Recognized correctly: WHSU5368199
+Video: WHSU5368199.avi, OCR Accuracy: 0.95
+Video: WHSU5927851.avi, Final Container Number: WHSU5927851
+Video: WHSU5927851.avi, Recognized correctly: WHSU5927851
+Video: WHSU5927851.avi, OCR Accuracy: 1.00
+Video: WHSU6167120.avi, Final Container Number: WHSU6167120
+Video: WHSU6167120.avi, Recognized correctly: WHSU6167120
+Video: WHSU6167120.avi, OCR Accuracy: 0.97
+Video: WHSU6728690.avi, Final Container Number: WHSU6728690
+Video: WHSU6728690.avi, Recognized correctly: WHSU6728690
+Video: WHSU6728690.avi, OCR Accuracy: 0.95
+Video: WHSU6892256.avi, Final Container Number: WHSU6892256
+Video: WHSU6892256.avi, Recognized correctly: WHSU6892256
+Video: WHSU6892256.avi, OCR Accuracy: 1.00
+Overall OCR Accuracy: 0.90
